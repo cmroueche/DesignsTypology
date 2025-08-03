@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -16,37 +15,40 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="#CMR" when="2025-05-07">Created outline, stubbed Alushta</change>
+            <change who="#CMR" when="2025-05-07">Created outline</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
-           
-               
                 <list>
                     <head>Circles</head>
                     <item xml:id="typec01">
-                    <desc xml:lang="en">A simple circle, C.01</desc>
-                    <graphic url="01_c1.svg">C.01</graphic>
+                    <desc xml:lang="en">A simple circle</desc>
+                    <graphic url="01_c1.svg"><desc>C.01</desc></graphic>
                 </item>
                 <item xml:id="typec02">
-                    <desc xml:lang="en">Circle with 4 spokes, C.02</desc>
-                    Add a link to an image? Or a drawing?
+                    <desc xml:lang="en">Circle with 4 spokes</desc>
+                    <graphic url="01_c2.svg"><desc>C.02</desc></graphic>
                 </item>
                 <item xml:id="typec03">
-                    <desc xml:lang="en">Circle with 6 spokes, C.03</desc>
+                    <desc xml:lang="en">Circle with 6 spokes</desc>
+                    <graphic url="01_3.svg"><desc>C.03</desc></graphic>
                 </item>
                 <item xml:id="typec04">
-                    <desc xml:lang="en">Circle with 8 spokes, C.04</desc>
+                    <desc xml:lang="en">Circle with 8 spokes</desc>
+                    <graphic url="01_4.svg"><desc>C.04</desc></graphic>
                 </item>
                 <item xml:id="typec05">
-                    <desc xml:lang="en">Circle with 4 spokes, 4 arcs, C.05</desc>
+                    <desc xml:lang="en">Circle with 4 spokes, 4 arcs5</desc>
+                    <graphic url="01_5.svg"><desc>C.05</desc></graphic>
                 </item>
                 <item xml:id="typec06">
-                    <desc xml:lang="en">Circle with 4 spokes and 8 arcs, C.06</desc>
+                    <desc xml:lang="en">Circle with 4 spokes and 8 arcs</desc>
+                    <graphic url="01_6.svg"><desc>C.06</desc></graphic>
                 </item>
                 <item xml:id="typec07">
-                    <desc xml:lang="en">Circle with 4 spokes, 4 chords, C.07</desc>
+                    <desc xml:lang="en">Circle with 4 spokes, 4 chords</desc>
+                    <graphic url="01_7.svg"><desc>C.07</desc></graphic>
                 </item></list>
             <list><head>Squares</head></list>
                 
