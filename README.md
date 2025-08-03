@@ -1,0 +1,1 @@
+The purpose of this collection is to establish a typology for reporting non-verbal designs in inscriptions - and possibly in other media. Many such designs have been reported as gameboards. The collection here is based on the typology published as https://locusludi.ch/game-typology-c-roueche/
