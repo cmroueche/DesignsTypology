@@ -21,9 +21,11 @@
     </teiHeader>
     <text>
         <body>
-            <list>
-                <head>Designs</head>
-                <item xml:id="typec01">
+           
+               
+                <list>
+                    <head>Circles</head>
+                    <item xml:id="typec01">
                     <desc xml:lang="en">A simple circle, C.01</desc>
                     <graphic url="01_c1.svg">C.01</graphic>
                 </item>
@@ -45,9 +47,9 @@
                 </item>
                 <item xml:id="typec07">
                     <desc xml:lang="en">Circle with 4 spokes, 4 chords, C.07</desc>
-                </item>
+                </item></list>
+            <list><head>Squares</head></list>
                 
-                </list>
         </body>
     </text>
 </TEI>
